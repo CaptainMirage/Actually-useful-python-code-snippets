@@ -1,2 +1,3 @@
-# Actually-useful-python-code-snippets
-these are some snippets that i actually found useful, i did make them so dont expect them to be optimal.
+# Actually useful python code snippets
+if you do find these useful do give a star! dont blame me if your pc blows up tho
+
